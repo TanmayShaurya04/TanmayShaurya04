@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Hello+I+am+Tanmay+Shaurya;Btech+2nd+year+undergraduate;Building+for+Student+welfare;mental+health+innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Hello+I+am+Tanmay+Shaurya;Btech+2nd+YearUundergraduate;Building+For+Student+Welfare;Mental+Health+Innovator" alt="Typing SVG" />
 
 ![Status: Innovating](https://img.shields.io/badge/Status-Innovating_for_SIH_2026-FF9800?style=for-the-badge&logo=rocket&logoColor=white)
 ![Focus: Life Saving Tech](https://img.shields.io/badge/Focus-Life%20Saving%20Tech-E91E63?style=for-the-badge&logo=heartbeat&logoColor=white)
