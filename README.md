@@ -52,7 +52,7 @@ I specialize in multiple layers of the technology stack, grouped below for easy 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![DBMS Basics](https://img.shields.io/badge/DBMS-Basics-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-Basics-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 </div>
 
@@ -79,7 +79,7 @@ I specialize in multiple layers of the technology stack, grouped below for easy 
 *(Using stable community mirrors for high reliability)*
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Tanmay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=TanmayShaurya04&show_icons=true&theme=dark&hide_border=true" alt="Tanmay's GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Tanmay's GitHub Streak" width="48%" />
 </div>
 
@@ -90,11 +90,11 @@ I specialize in multiple layers of the technology stack, grouped below for easy 
 <!-- Sleek, Minimalist Social Icons -->
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/tanmay-shaurya-329514380/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="tanmayshaurya04@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
