@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=I+am+Tanmay+Shaurya.;Tech+2nd+Yr+Undergrad;Building+for+Social+Good;Mental+Health+Innovator" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=38&color=1F8ACB&vCenter=true&lines=I+am+Tanmay+Shaurya.;Tech+2nd+Yr+Undergrad;Building+for+Social+Good;Mental+Health+Innovator" alt="Typing SVG" />
 <br/>
 
 ![Status: Innovating](https://img.shields.io/badge/Status-Innovating_for_SIH_2026-FF9800?style=for-the-badge&logo=rocket&logoColor=white)
@@ -83,4 +82,11 @@ I specialize in multiple layers of the technology stack, grouped below for easy 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/tanmay-shaurya-329514380/" target="_blank">
-<img src="
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="tanmayshaurya04@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
